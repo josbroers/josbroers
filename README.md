@@ -1,10 +1,7 @@
-
-
-
 ### Hi, I'm Jos
 
-- 🔭 I’m currently working on a Next.js skeleton, WordPress skeleton and Ansible playbooks.
-- 🌱 I’m currently learning Laravel and Docker.
+- 🔭 I’m currently working mostly with WordPress and Ansible.
+- 🌱 I’m currently learning Laravel and K8s.
 - ⚡ Helping brands digitally in a world impossible to predict, by doing something today that will make them better than they were yesterday.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jos-broers&theme=github)
